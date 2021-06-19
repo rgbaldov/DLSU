@@ -46,8 +46,8 @@ ENGTREP	EW	MW 1245-1415	43	Musngi, Marlon Luis M.
 ENGMEC2	EG1	MW 1245-1345	44	Roxas, Nicanor R.
 ENGMEC2	EG2	TH 1245-1345	42	Roxas, Nicanor R.
 ENGMEC2	EG3	MW 1615-1715	43	Roxas, Nicanor R.
-ENGMEC1	ER1	MW 1430-1600  40  Roxas, Nicanor R.
-CEECONO	EV	TH 1100-1230  45  Roxas, Nicanor R.
+ENGMEC1	ER1	MW 1430-1600	40	Roxas, Nicanor R.
+CEECONO	EV	TH 1100-1230	45	Roxas, Nicanor R.
 ECNOMIC	EG1	MW 0730-0900	15	Espanola, Jason L.
 ECNOMIC	EG2	TH 0730-0900	16	Espanola, Jason L.
 ECNOMIC	EG3	MW 1430-1600	23	Solis, Celine Marie A.
@@ -101,9 +101,9 @@ MFMCPR1	EG4	H 1430-1530	24	Sy, Armyn C.
 LCLSTWO	Y04	M 1530-1730 45	Valenzuela, Ira	C.
 LCLSTWO	Y05	W 1300-1500 45  Valenzuela, Ira	C.
 LCLSTWO	Y11	T 1000-1200 45  Sta. Agueda, Joseph Rey H.
-LCLSTWO	Y12	T 1000-1200 45  Sta. Agueda, Joseph	Rey H.
-LCLSTWO	Y15	H 1000-1200 45  Sta. Agueda, Joseph	Rey H.
-LCLSTWO	Y16	H 1000-1200 45  Sta. Agueda, Joseph	Rey H.
+LCLSTWO	Y12	T 1000-1200 45  Sta. Agueda, Joseph Rey H.
+LCLSTWO	Y15	H 1000-1200 45  Sta. Agueda, Joseph Rey H.
+LCLSTWO	Y16	H 1000-1200 45  Sta. Agueda, Joseph Rey H.
 LCLSTWO	Y17	M 0730-0930 45  Puno, John Carlo V.
 LCLSTWO	Y19	W 0730-0930 45  Puno, John Carlo V.
 LCLSTWO	Y22	M 1000-1200 45  Puno, John Carlo V.
