@@ -1,4 +1,4 @@
-Course	Section	Day	Time	Enrolled	Instructor
+Course	Section Day Time  Enrolled	Instructor
 THSCST2	EG1	M	1800-2100	10	Baldovino, Renann G.
 THSCST2	EG2	W	1800-2100	20	Baldovino, Renann G.
 THSCST2	EG3	T	1800-2100	19	Baldovino, Renann G.
@@ -43,7 +43,7 @@ ENGTREP	EH	TH	1245 - 1415	43	Billones, Robert Kerwin D.
 ENGTREP	EI	MW	1100 - 1230	43	Billones, Robert Kerwin D.
 ENGTREP	EJ	TH	1100 - 1230	41	Billones, Robert Kerwin D.
 ENGTREP	EW	MW	1245 - 1415	43	Musngi, Marlon Luis M.
-THSMEM3	ER1	-	-	12	Baldovino, Renann G.
+THSMEM3	ER1 - - 12  Baldovino, Renann G.
 ENGMEC2	EG1	MW	1245-1345	44	Roxas, Nicanor R.
 ENGMEC2	EG2	TH	1245-1345	42	Roxas, Nicanor R.
 ENGMEC2	EG3	MW	1615-1715	43	Roxas, Nicanor R.
