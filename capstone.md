@@ -59,12 +59,3 @@ flowchart TB
     H --> J[Transmit Data to Ground System]
     I --> J
     J --> K[End of Phase 1]
-
----
-
-## Phase 2 (Thesis): Digital Twin–Based Damage Assessment and Visualization (_1 yr_)
-**Objectives:**  
-- Create a digital twin model of the aircraft to map detected damages onto a 3D representation.  
-- Simulate the potential structural and operational impact of identified damages within the digital twin environment.  
-- Develop a user-friendly dashboard for maintenance teams to visualize and prioritize detected damages.  
-- Integrate predictive maintenance insights to support decision-making and reduce aircraft downtime.  
