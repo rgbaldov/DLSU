@@ -1,6 +1,7 @@
 # Automated Aircraft Damage Detection and Assessment using Drone-based Computer Vision and Digital Twin Technology
-*Student Researchers: Matthew Edward K. Chua, Angelo V. Diaz, Joshua Emmanuel U. Legaspi, Reevee Kacy A. Lo, Gino C. Sangalang*
-*Advisers: [Renann G. Baldovino, PhD](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/renann-baldovino/) & [Jerahmeel K. Coching. MSc](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/jerahmeel-coching/)* 
+*Student Researchers: **Matthew Edward K. Chua, Angelo V. Diaz, Joshua Emmanuel U. Legaspi, Reevee Kacy A. Lo, Gino C. Sangalang**
+*Advisers: **[Renann G. Baldovino, PhD](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/renann-baldovino/) & [Jerahmeel K. Coching. MSc](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/jerahmeel-coching/)**
+
 **[Department of Manufacturing Engineering and Management, De La Salle University (DLSU)](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/)**  
 
 ## Main Objective:
