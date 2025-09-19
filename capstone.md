@@ -46,6 +46,22 @@ To develop a drone-based system with depth cameras and computer vision for autom
 - Validate detection accuracy against manual inspection results to ensure reliability.  
 - Establish a real-time data transfer pipeline between drones and ground systems for immediate assessment.  
 
+```mermaid
+flowchart TB
+    A[Start] --> B[Drone Flight Around Aircraft]
+    B --> C[Capture High-Resolution Images with Depth Cameras]
+    C --> D[Preprocess Images (Filtering & Alignment)]
+    D --> E[Computer Vision Analysis]
+    E --> F{Damage Detected?}
+    F -- Yes --> G[Classify Damage <br/>(Dent, Crack, Corrosion, etc.)]
+    G --> H[Store Results & Generate Alerts]
+    F -- No --> I[Continue Inspection]
+    H --> J[Transmit Data to Ground System]
+    I --> J
+    J --> K[End of Phase 1]
+
+---
+
 ## Phase 2 (Thesis): Digital Twin–Based Damage Assessment and Visualization (_1 yr_)
 **Objectives:**  
 - Create a digital twin model of the aircraft to map detected damages onto a 3D representation.  
