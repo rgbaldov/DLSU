@@ -1,8 +1,15 @@
 # Automated Aircraft Damage Detection and Assessment using Drone-based Computer Vision and Digital Twin Technology
-*Student Researchers: **Matthew Edward K. Chua, Angelo V. Diaz, Joshua Emmanuel U. Legaspi, Reevee Kacy A. Lo, Gino C. Sangalang**
-*Advisers: **[Renann G. Baldovino, PhD](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/renann-baldovino/) & [Jerahmeel K. Coching. MSc](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/jerahmeel-coching/)**
+
+Student Researchers: **Matthew Edward K. Chua, Angelo V. Diaz, Joshua Emmanuel U. Legaspi, Reevee Kacy A. Lo, Gino C. Sangalang**
+
+Advisers: **[Renann G. Baldovino, PhD](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/renann-baldovino/) & [Jerahmeel K. Coching. MSc](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/jerahmeel-coching/)**
 
 **[Department of Manufacturing Engineering and Management, De La Salle University (DLSU)](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/)**  
+
+## Research Collaboration:
+<img width=<img width="1200" height="1200" alt="dlsu" src="https://github.com/user-attachments/assets/909d81cd-9c22-4788-afb2-20c66aa4748c" />
+"225" height="225" alt="cebpac" src="https://github.com/user-attachments/assets/0ed1d62b-6bfb-43ae-87c0-3093b30595ee" />
+
 
 ## Main Objective:
 To develop a drone-based system with depth cameras and computer vision for automated aircraft surface damage assessment, integrated with digital twin technology for real-time monitoring and predictive maintenance
