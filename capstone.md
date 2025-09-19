@@ -7,9 +7,11 @@ Advisers: **[Renann G. Baldovino, PhD](https://www.dlsu.edu.ph/colleges/gcoe/aca
 **[Department of Manufacturing Engineering and Management, De La Salle University (DLSU)](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/)**  
 
 ## Research Collaboration:
-<img width=<img width="1200" height="1200" alt="dlsu" src="https://github.com/user-attachments/assets/909d81cd-9c22-4788-afb2-20c66aa4748c" />
-"225" height="225" alt="cebpac" src="https://github.com/user-attachments/assets/0ed1d62b-6bfb-43ae-87c0-3093b30595ee" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/275c4dbe-8e4b-4199-ae1a-4286ce06b8d1" alt="DLSU" width="150" height="150"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/ee4a09dc-f61f-4ec0-b099-e2e33af5e75a" alt="Cebu Pacific" width="150" height="150"/>
+</p>
 
 ## Main Objective:
 To develop a drone-based system with depth cameras and computer vision for automated aircraft surface damage assessment, integrated with digital twin technology for real-time monitoring and predictive maintenance
